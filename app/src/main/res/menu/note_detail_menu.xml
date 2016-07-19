@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:appcompat="http://schemas.android.com/apk/res-auto"
+    xmlns:app="http://schemas.android.com/tools">
+
+    <item
+        android:id="@+id/delete"
+        android:title="Delete Note"
+        android:icon="@drawable/ic_delete_forever_white_24dp"
+        appcompat:showAsAction="always" />
+
+</menu>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="add_new">Add New</string>
+    <string name="edit_note">Edit Note</string>
+    <string name="done">Done</string>
+    <string name="delete_this_note">Do you want to delete this note..?</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="title">Title…</string>
+    <string name="description">Description…</string>
+    <string name="no_notes_available">No notes available</string>
+    <string name="add_a_new_note">Add a new Note</string>
+    <string name="delete_button">Delete Button</string>
+    <string name="title_required">Please Write a title for note</string>
+    <string name="description_required">Please Write a description for note</string>
+</resources>
